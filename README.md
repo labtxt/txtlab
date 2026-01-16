@@ -1,9 +1,7 @@
-Teletext Lab
-Laboratorio de software y experiencias digitales
-
-Sobre Teletext Lab
-Teletext Lab es un laboratorio tecnológico y creativo que desarrolla software a medida y experiencias digitales innovadoras.
-Nuestro proyecto más avanzado, Teletext Radio Online, combina creatividad, tecnología y comunidad, ofreciendo experiencias interactivas, escalables y con impacto social y artístico.
+Teletext Lab:
+Laboratorio tecnológico y creativo que desarrolla software a medida y experiencias digitales innovadoras.
+Nuestro proyecto más avanzado, Teletext Radio Online, combina creatividad, tecnología y comunidad, ofreciendo experiencias interactivas, 
+escalables y con impacto social y artístico.
 
 Objetivos
 Crear soluciones digitales a medida: web, mobile, VR/AR, IoT
